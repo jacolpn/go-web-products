@@ -1,3 +1,3 @@
 # go-web-products
 
-**Start project:** go run hello.go
+**Start project:** go run main.go
